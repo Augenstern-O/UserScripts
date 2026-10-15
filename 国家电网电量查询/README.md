@@ -5,7 +5,7 @@
 - **作者**：[@Augenstern-O](https://github.com/Augenstern-O)
 - **版本**：v1.0.0
 - **适用网站**：[国家电网网上营业厅](https://www.95598.cn/osgweb/)
-- **脚本源码**：[国家电网电量查询.js](./国家电网电量查询.js)
+- **脚本源码**：[国家电网电量查询.user.js](./国家电网电量查询.user.js)
 
 ## 功能特性
 
@@ -18,8 +18,8 @@
 ## 安装
 
 1. 安装浏览器扩展：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
-2. 打开[脚本源码](./国家电网电量查询.js)，复制完整内容。
-3. 在脚本管理器中新建脚本，用复制的内容替换默认模板，保存并启用。
+2. 打开[直接安装地址](https://raw.githubusercontent.com/Augenstern-O/UserScripts/main/国家电网电量查询/国家电网电量查询.user.js)，在脚本管理器提示中确认安装。
+3. 也可以打开[脚本源码](./国家电网电量查询.user.js)并复制完整内容，在脚本管理器中新建脚本、替换默认模板后保存并启用。仅打开 GitHub 源码展示页不会触发安装。
 4. 打开或刷新[国家电网网上营业厅](https://www.95598.cn/osgweb/)。
 
 如果曾安装旧版“95598 电量查询：解锁‘近30天’按钮”，请先停用或删除旧版，再安装本版，避免两个脚本同时运行。新版统一了脚本名称和命名空间，脚本管理器可能将其识别为另一份脚本。

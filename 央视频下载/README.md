@@ -16,7 +16,8 @@
 ## 安装
 
 1. 安装浏览器扩展：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
-2. 在扩展中新建脚本，将 [央视频下载.js](./央视频下载.js) 的源码粘贴并保存。
+2. 打开[直接安装地址](https://raw.githubusercontent.com/Augenstern-O/UserScripts/main/央视频下载/央视频下载.user.js)，在脚本管理器提示中确认安装。
+3. 也可以打开[脚本源码](./央视频下载.user.js)并复制内容，在扩展中新建脚本后粘贴并保存。仅打开 GitHub 源码展示页不会触发安装。
 
 ## 使用
 
